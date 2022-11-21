@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=180&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+William+Canedo+Cordeiro;I'm+24+years+old;I+from+Brasil,+GO;I+study+systems+development+at+Alura;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mwilliamm&show_icons=true&count_private=true&hide_border=true&title_color=ffff&icon_color=ffff&text_color=c9d1d9&bg_color=0000" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mwilliamm&layout=compact&hide_border=true&title_color=ffff&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mwilliamm&layout=compact&hide_border=true&title_color=ffff&text_color=ffff&bg_color=0d1117" />
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Mwilliamm&theme=gotham&hide_border=true&area=true)
